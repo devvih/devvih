@@ -5,7 +5,7 @@
 
 ### Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vithorrocha/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-9560FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/msumi.v/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-9560FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vihdev_/)
 [![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vithorrocha066@gmail.com)
 
 ### Skills
