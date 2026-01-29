@@ -8,7 +8,7 @@ const projetos = [
       'Uma landing page temática sobre o filme "A Viagem de Chihiro" do Studio Ghibli.',
     tecnologias: ["HTML", "CSS"],
     projetoLink: "https://desafio-studio-ghibli.vercel.app/",
-    repositorioLink: "https://github.com/msumii/desafio-studio-ghibli"
+    repositorioLink: "https://github.com/devvih/desafio-studio-ghibli"
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const projetos = [
       "Um site de vendas focado em bicicletas elétricas sob medida.",
     tecnologias: ["HTML", "CSS", "JavaScript"],
     projetoLink: "https://bikcraft-eight-eta.vercel.app/",
-    repositorioLink: "https://github.com/msumii/bikcraft"
+    repositorioLink: "https://github.com/devvih/bikcraft"
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ const projetos = [
       "Um card interativo de perguntas frequentes que facilita o acesso às principais dúvidas.",
     tecnologias: ["HTML", "CSS", "JavaScript"],
     projetoLink: "https://desafio-faq-accordion.vercel.app/",
-    repositorioLink: "https://github.com/msumii/desafio-faq-accordion"
+    repositorioLink: "https://github.com/devvih/desafio-faq-accordion"
   }
 ];
 
